@@ -1,3 +1,12 @@
+""" 
+Curso Python empresa de 'Lenguaje de Programación Python'
+
+Autor: José Antonio Calvo López
+
+Fecha: Noviembre 2023
+
+"""
+
 from tkinter import filedialog, simpledialog, messagebox, Tk, Button, PhotoImage
 from PIL import Image
 import tkinter as tk

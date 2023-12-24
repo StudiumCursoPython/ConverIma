@@ -1,3 +1,12 @@
+""" 
+Curso Python empresa de 'Lenguaje de Programación Python'
+
+Autor: José Antonio Calvo López
+
+Fecha: Noviembre 2023
+
+"""
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 import os,sys
 
